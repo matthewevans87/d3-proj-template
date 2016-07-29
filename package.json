@@ -1,0 +1,20 @@
+{
+  "name": "d3-proj-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "d3": "^4.1.1"
+  }
+}
